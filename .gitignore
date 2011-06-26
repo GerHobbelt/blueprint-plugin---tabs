@@ -1,0 +1,6 @@
+*.bak
+*~
+*.swp
+*.DS_Store
+_vti_cnf
+_vti_pvt
